@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BemchmarkSimpleJob", "BemchmarkSimpleJob\BemchmarkSimpleJob.csproj", "{E780EB01-7768-488D-B275-8F9EA76D7AE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedSampleBenchmarks", "AdvancedSampleBenchmarks\AdvancedSampleBenchmarks.csproj", "{5B6E5ADE-222B-496F-A107-3BF225C6F12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E780EB01-7768-488D-B275-8F9EA76D7AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E780EB01-7768-488D-B275-8F9EA76D7AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E780EB01-7768-488D-B275-8F9EA76D7AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E780EB01-7768-488D-B275-8F9EA76D7AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6E5ADE-222B-496F-A107-3BF225C6F12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6E5ADE-222B-496F-A107-3BF225C6F12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6E5ADE-222B-496F-A107-3BF225C6F12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6E5ADE-222B-496F-A107-3BF225C6F12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B72C7156-772C-4B49-93B2-2FC4714FB8EF}
+	EndGlobalSection
+EndGlobal
