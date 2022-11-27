@@ -16,7 +16,7 @@ namespace AdvancedSampleBenchmarks
     public class CollectionIteration
     {
 
-        [Params(100, 1000, 100_000)]
+        [Params(100, 1000, 1_000_000)]
         public int Size { get; set; }
 
         private List<int> DataItems = new List<int>();
